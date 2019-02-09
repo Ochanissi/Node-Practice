@@ -13,9 +13,6 @@ app.listen(3000);
 
 
 
-
-
-
 // app.use(bodyParser.urlencoded({extended: false}))
 // app.use(bodyParser.json());
 
@@ -29,7 +26,6 @@ app.listen(3000);
 // });
 
 
-
 // app.get('/profile', (req, res) => {
 //     res.send('Getting Profile');
 // });
@@ -39,13 +35,11 @@ app.listen(3000);
 //     res.send('Success');
 // });
 
-
 // app.get('/', (req, res) => {
 //     // const user = {
 //     //     name: 'Sally',
 //     //     hobby: 'Cooking'
 //     // }
-
 //     // res.send(user);
 //     res.send('<h1>Getting Root</h1>');
 // });
